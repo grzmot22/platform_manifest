@@ -113,7 +113,7 @@
   <project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery/" remote="github" revision="android-7.1" />
 
   <!-- Vendors -->
-  <project path="vendor/aosp" name="AOSP-JF-MM/platform_vendor_aosp" remote="github" revision="aosp-7.1.2" />
+  <project path="vendor/aosp" name="grzmot22/platform_vendor_aosp" remote="github" revision="aosp-7.1.2" />
   <project path="vendor/codeaurora/telephony" name="LineageOS/android_vendor_codeaurora_telephony" remote="github" revision="cm-14.1" />
   <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" remote="github" revision="cm-14.1" />
   <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" remote="github" revision="cm-14.1" />

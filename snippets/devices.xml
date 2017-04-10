@@ -13,7 +13,8 @@
   
     <!-- OnePlus 3/3T -->
   <project path="device/oneplus/oneplus3" name="grzmot22/platform_device_oneplus_oneplus3" remote="github" revision="aosp-7.1.2" />
-  <project path="kernel/oneplus/msm8996" name="grzmot22/platform_kernel_oneplus_msm8996" remote="github" revision="aosp-7.1.2" />
+  <project path="kernel/oneplus/msm8996-toFix" name="grzmot22/platform_kernel_oneplus_msm8996" remote="github" revision="aosp-7.1.2" />
+  <project path="kernel/oneplus/msm8996" name="grzmot22/Radioactive_Kernel_LOS_OP3_3T" remote="github" revision="aosp-7.1.2" />
 
   <!-- Samsung Galaxy S4 (unified) -->
   <project path="device/samsung/jflte" name="AOSP-JF-MM/platform_device_samsung_jflte" remote="github" revision="aosp-7.1.2" />
